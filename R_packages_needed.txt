@@ -1,0 +1,23 @@
+# CRAN packages
+rjson
+data.tree
+DiagrammeR
+htmltools
+ggrepel
+paletteer
+rsvg
+scales
+readxl
+dplyr
+ggplot2
+gridExtra
+tidyr
+ggpubr
+ggbeeswarm
+
+# Bioconductor packages
+ggtree
+ComplexHeatmap
+ensembldb
+EnsDb.Hsapiens.v86
+EnsDb.Hsapiens.v75
